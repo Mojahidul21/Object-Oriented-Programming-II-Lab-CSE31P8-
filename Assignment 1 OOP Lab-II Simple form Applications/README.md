@@ -21,6 +21,4 @@ Form2.resx
 
 
 Another foler named "Others" contains the files that are not created in VS but requred to create and maintain the project.
-This folder contans the lab report, some screenshots and 
-
-
+This folder contans the lab report, some screenshots, teacher's instruction and sample image.
