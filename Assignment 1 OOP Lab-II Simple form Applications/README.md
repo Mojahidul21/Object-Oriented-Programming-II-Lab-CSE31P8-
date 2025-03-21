@@ -6,4 +6,4 @@ Here are two folders - StudentProfile and Others.
 
 StudentProfile is the folder of my entire project made in VS.
 
-Others folder contains 
+
